@@ -1,1 +1,4 @@
-![Screenshot](https://github.com/lcarloszapatag/Entrenamiento-en-Logistica-para-el-Comercio-Electronico/blob/main/entrenamiento%20Logistica%20Comercio%20Electronico.jpg?raw=true)
+Continuamos con la clase de ayer de la logistica de los envios
+
+
+![Screenshot](https://github.com/lcarloszapatag/Entrenamiento-en-Logistica-para-el-Comercio-Electronico/blob/main/logistica-1.png?raw=true)
